@@ -27,6 +27,9 @@
 ![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/intellij-idea.png)
 ![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/java.png)
 ![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/jenkins.png)
+![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/appveyor.png)
+![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/gradle.png)
+![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/icons8-selenium-48.png)
 
 ## Связаться со мной ##
 <a href="https://t.me/creedance66"> 
