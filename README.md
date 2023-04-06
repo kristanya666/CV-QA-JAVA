@@ -1,13 +1,18 @@
-### Hi there! ###
+<div id="header" align="center">
+    <h1>Hi there!</h2>
+    <h3>Меня зовут Кристина. Я Junior QA Automation Enginner.</h3>
+</div>
 
-Меня зовут Кристина. Я junior QA Automation Enginner, прошла обучение по указанному профилю, далее продолжила изучать глубже теорию тестирования и программирования и практиковаться в тестах.
 
-Ранее был опыт написания небольших скриптов на Python на последнем месте работы.
+Я прошла обучение на инженера по автоматизированному тестированию на Java, сейчас продолжаю изучать глубже теорию тестирования и программирования и практиковаться в автотестах.
+Ранее у меня был опыт написания небольших скриптов на Python на последнем месте работы.
 На данный момент целиком углубилась в Java.
 
 
 ## CV ##
-[Linkedin](https://www.linkedin.com/in/kristinatsvetkova1696/)
+<a href="https://www.linkedin.com/in/kristinatsvetkova1696/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ## Проекты ##
 [API tests in SWAPI](https://github.com/kristanya666/PetProject.git)
@@ -18,8 +23,15 @@
 
 ## Инструменты ##
 
-## Связаться со мной ##
+![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/docker.png)
+![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/intellij-idea.png)
+![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/java.png)
+![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/jenkins.png)
 
+## Связаться со мной ##
+<a href="https://www.linkedin.com/in/kristinatsvetkova1696/"> 
+  <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 
 ## Дополнительно ##
