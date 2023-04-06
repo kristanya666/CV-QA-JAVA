@@ -38,6 +38,6 @@
 
 
 ## Дополнительно ##
-Решаю задачки на CodeWars, пытаюсь изучать регулярные выражения    
+Решаю задачки на CodeWars :)    
 
 ![](https://www.codewars.com/users/kristanya666/badges/micro)
