@@ -29,7 +29,7 @@
 ![](https://github.com/kristanya666/CV-QA-JAVA/blob/master/icons/jenkins.png)
 
 ## Связаться со мной ##
-<a href="https://www.linkedin.com/in/kristinatsvetkova1696/"> 
+<a href="https://t.me/creedance66"> 
   <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
